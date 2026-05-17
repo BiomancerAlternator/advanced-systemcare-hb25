@@ -1,4 +1,4 @@
-# 
+# secure CCleaner PC版 脚本 是最佳 CCleaner PC版 脚本，集成 文件移动 和 磁盘分析。安全、可靠、优化，性能最大化。
 
 
 
